@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: nisary-container
-        image: nisary123/javasaimg
+        image: nisary123/javasaimg:v1.0
         ports:
         - containerPort: 8080
 ---
