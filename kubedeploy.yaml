@@ -28,7 +28,7 @@ metadata:
     app: nisary-app
 spec:
   selector:
-    app: nisary-deploy-lbl
+    app: nisary-app
 
   type: NodePort
   ports:
